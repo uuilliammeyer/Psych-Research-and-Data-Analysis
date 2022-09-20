@@ -1,2 +1,3 @@
 # Psych-Research-and-Data-Analysis
 Helpful notes on introductory research methods and data alysis for early psychology students.
+I made these notes during my second year of college. I had just learned python and was so excited about the new tools I had at my disposal, so to help myself prepare for tests in my research and data analysis class, I made these Jupyternotebooks. I do not condone the use of these for accademically dishonest purposes. They are only to aid in studying. To avoid the abuse of these materials, I have waitied to put them on github until the class returned to in-person tests.
